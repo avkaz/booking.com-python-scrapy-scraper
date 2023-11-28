@@ -15,9 +15,3 @@ Given the sophisticated bot detection mechanisms employed by Booking.com, the sc
 ### Scraper Variants
 
 This scraper has a counterpart that utilizes the [Booking.com Python API Spider](https://github.com/avkaz/Booking.com-python-api-spider). The API scraper doesn't require the use of proxies and is suitable for handling massive datasets. However, it comes with a trade-off in terms of information granularity. Unlike the web scraper, the API scraper provides the lowest price for a hotel but lacks the ability to retrieve detailed pricing information for each room.
-
-By offering both web scraping and API-based approaches, this suite of tools provides flexibility, allowing users to choose the method that best suits their specific needs and trade-offs.
-
----
-
-Feel free to further customize this overview based on additional details or nuances you want to highlight about your scraper.
